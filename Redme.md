@@ -1,6 +1,6 @@
 # Node.js
 
-## 1️ What is Node.js?
+## 1 What is Node.js?
 
 **Node.js** হলো একটি **JavaScript Runtime** যা ব্রাউজারের বাইরে সার্ভার-সাইডে JavaScript চালানোর জন্য ব্যবহার হয়।
 
